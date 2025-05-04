@@ -1,0 +1,7 @@
+serverSqlite/database.db-wal
+serverSqlite/database.db-shm
+.idea/
+serverFile/*.class
+serverSqlite/*.class
+logging/log.txt
+serverSqlite/URLShortner.class
